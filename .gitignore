@@ -20,15 +20,5 @@ venv.bak/
 .DS_Store
 Thumbs.db
 
-# Data (保留目录结构但忽略具体文件，除了示例)
-data/daily/*.json
-data/weekly/*.json
-!data/daily/.gitkeep
-!data/weekly/.gitkeep
-
-# Reports (保留目录结构但忽略具体文件)
-reports/*.md
-!reports/.gitkeep
-
 # Other
 *.log
