@@ -1,4 +1,3 @@
-from typing import Dict, Optional
 #!/usr/bin/env python3
 """
 小米空头监控系统 - 主程序
@@ -8,9 +7,9 @@ import json
 import os
 import sys
 from datetime import datetime
+from typing import Dict
 from pathlib import Path
 
-# 添加当前目录到路径
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from data_fetcher import fetch_all_data
@@ -37,7 +36,6 @@ def load_historical_data(days: int = 30) -> list:
     if not data_dir.exists():
         return historical
     
-    # 获取最近 N 天的数据文件
     files = sorted(data_dir.glob("*.json"), reverse=True)[:days]
     
     for f in files:
@@ -53,13 +51,11 @@ def load_historical_data(days: int = 30) -> list:
 
 def save_data(data: dict, date_str: str):
     """保存数据到文件"""
-    # 保存每日数据
     daily_file = f"data/daily/{date_str}.json"
     with open(daily_file, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"[INFO] Saved daily data: {daily_file}")
     
-    # 如果有 SFC 数据，保存到 weekly
     if data.get("sfc_short_position"):
         weekly_file = f"data/weekly/sfc_{date_str}.json"
         with open(weekly_file, "w") as f:
@@ -107,16 +103,21 @@ def main():
     print("[STEP 4] 生成报告...")
     report = generate_report(data, analysis)
     
-    # 6. 保存数据和报告
-    date_str = data.get("hkex_short_selling", {}).get("date", datetime.now().strftime("%Y-%m-%d"))
+    # 6. 确定日期 - 安全地处理 None 值
+    hkex_data = data.get("hkex_short_selling")
+    if hkex_data and isinstance(hkex_data, dict):
+        date_str = hkex_data.get("date", datetime.now().strftime("%Y-%m-%d"))
+    else:
+        date_str = datetime.now().strftime("%Y-%m-%d")
     
+    # 7. 保存数据和报告
     print("[STEP 5] 保存数据...")
     save_data(data, date_str)
     
     print("[STEP 6] 保存报告...")
     report_file = save_report(report, date_str)
     
-    # 7. 输出摘要
+    # 8. 输出摘要
     print()
     print("=" * 60)
     print("运行完成！")
@@ -134,5 +135,4 @@ def main():
 
 
 if __name__ == "__main__":
-    
     sys.exit(main())
