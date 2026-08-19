@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-08-19T18:03:01.913718",
+  "hkex_short_selling": {
+    "date": "2026-08-19",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 69648000,
+      "short_turnover_hkd": 1909014016,
+      "implied_price": 27.41
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-08-06",
+      "close": 26.86,
+      "volume": 199623572,
+      "high": 28.04,
+      "low": 26.64,
+      "open": 27.64
+    },
+    {
+      "date": "2026-08-07",
+      "close": 27.06,
+      "volume": 148233931,
+      "high": 27.16,
+      "low": 26.06,
+      "open": 26.66
+    },
+    {
+      "date": "2026-08-10",
+      "close": 27.62,
+      "volume": 149650782,
+      "high": 27.82,
+      "low": 26.82,
+      "open": 27.1
+    },
+    {
+      "date": "2026-08-11",
+      "close": 26.66,
+      "volume": 120335468,
+      "high": 27.56,
+      "low": 26.6,
+      "open": 27.38
+    },
+    {
+      "date": "2026-08-12",
+      "close": 26.36,
+      "volume": 106974043,
+      "high": 26.52,
+      "low": 26.12,
+      "open": 26.46
+    },
+    {
+      "date": "2026-08-13",
+      "close": 25.88,
+      "volume": 116473440,
+      "high": 26.48,
+      "low": 25.8,
+      "open": 26.1
+    },
+    {
+      "date": "2026-08-14",
+      "close": 25.62,
+      "volume": 91055676,
+      "high": 26.12,
+      "low": 25.44,
+      "open": 25.86
+    },
+    {
+      "date": "2026-08-17",
+      "close": 25.88,
+      "volume": 100082735,
+      "high": 26.24,
+      "low": 25.8,
+      "open": 25.8
+    },
+    {
+      "date": "2026-08-18",
+      "close": 26.18,
+      "volume": 179217011,
+      "high": 26.54,
+      "low": 25.22,
+      "open": 25.5
+    },
+    {
+      "date": "2026-08-19",
+      "close": 27.44,
+      "volume": 339876011,
+      "high": 28.08,
+      "low": 26.38,
+      "open": 26.96
+    }
+  ],
+  "events": [
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Profit Warning / Inside Information]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900766.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900664.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900642.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900632.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900554.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900535.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900516.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900482.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Results of AGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900434.pdf"
+    },
+    {
+      "date": "19/08/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0819/2026081900424.pdf"
+    }
+  ]
+}
