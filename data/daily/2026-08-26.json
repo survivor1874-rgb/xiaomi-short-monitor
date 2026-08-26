@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-08-26T17:28:08.061955",
+  "hkex_short_selling": {
+    "date": "2026-08-26",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 40233000,
+      "short_turnover_hkd": 1152252644,
+      "implied_price": 28.64
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-08-13",
+      "close": 25.88,
+      "volume": 116473440,
+      "high": 26.48,
+      "low": 25.8,
+      "open": 26.1
+    },
+    {
+      "date": "2026-08-14",
+      "close": 25.62,
+      "volume": 91055676,
+      "high": 26.12,
+      "low": 25.44,
+      "open": 25.86
+    },
+    {
+      "date": "2026-08-17",
+      "close": 25.88,
+      "volume": 100082735,
+      "high": 26.24,
+      "low": 25.8,
+      "open": 25.8
+    },
+    {
+      "date": "2026-08-18",
+      "close": 26.18,
+      "volume": 179217011,
+      "high": 26.54,
+      "low": 25.22,
+      "open": 25.5
+    },
+    {
+      "date": "2026-08-19",
+      "close": 27.44,
+      "volume": 339866011,
+      "high": 28.08,
+      "low": 26.38,
+      "open": 26.96
+    },
+    {
+      "date": "2026-08-20",
+      "close": 27.76,
+      "volume": 178685384,
+      "high": 28.64,
+      "low": 27.5,
+      "open": 27.78
+    },
+    {
+      "date": "2026-08-21",
+      "close": 29.02,
+      "volume": 180377953,
+      "high": 29.1,
+      "low": 28.0,
+      "open": 28.4
+    },
+    {
+      "date": "2026-08-24",
+      "close": 27.82,
+      "volume": 158110022,
+      "high": 28.84,
+      "low": 27.54,
+      "open": 28.6
+    },
+    {
+      "date": "2026-08-25",
+      "close": 27.76,
+      "volume": 81489138,
+      "high": 28.48,
+      "low": 27.64,
+      "open": 28.32
+    },
+    {
+      "date": "2026-08-26",
+      "close": 28.46,
+      "volume": 142478217,
+      "high": 29.14,
+      "low": 27.8,
+      "open": 28.0
+    }
+  ],
+  "events": [
+    {
+      "date": "26/08/2026",
+      "title": "Constitutional Documents",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600552.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600420.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600404.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600400.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600392.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600374.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Announcements and Notices - [Notice of AGM / Re-election or Appointment of Director subject to Share...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600364.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600356.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Circulars - [General Mandate / Explanatory Statement for Repurchase of Shares / Re-election or Appoi...",
+      "type": "buyback",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600342.pdf"
+    },
+    {
+      "date": "26/08/2026",
+      "title": "Announcements and Notices - [Results of AGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0826/2026082600334.pdf"
+    }
+  ]
+}
