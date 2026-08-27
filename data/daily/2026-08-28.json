@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-08-28T03:17:30.056865",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-08-14",
+      "close": 25.62,
+      "volume": 91055676,
+      "high": 26.12,
+      "low": 25.44,
+      "open": 25.86
+    },
+    {
+      "date": "2026-08-17",
+      "close": 25.88,
+      "volume": 100082735,
+      "high": 26.24,
+      "low": 25.8,
+      "open": 25.8
+    },
+    {
+      "date": "2026-08-18",
+      "close": 26.18,
+      "volume": 179217011,
+      "high": 26.54,
+      "low": 25.22,
+      "open": 25.5
+    },
+    {
+      "date": "2026-08-19",
+      "close": 27.44,
+      "volume": 339866011,
+      "high": 28.08,
+      "low": 26.38,
+      "open": 26.96
+    },
+    {
+      "date": "2026-08-20",
+      "close": 27.76,
+      "volume": 178685384,
+      "high": 28.64,
+      "low": 27.5,
+      "open": 27.78
+    },
+    {
+      "date": "2026-08-21",
+      "close": 29.02,
+      "volume": 180377953,
+      "high": 29.1,
+      "low": 28.0,
+      "open": 28.4
+    },
+    {
+      "date": "2026-08-24",
+      "close": 27.82,
+      "volume": 158110022,
+      "high": 28.84,
+      "low": 27.54,
+      "open": 28.6
+    },
+    {
+      "date": "2026-08-25",
+      "close": 27.76,
+      "volume": 81489138,
+      "high": 28.48,
+      "low": 27.64,
+      "open": 28.32
+    },
+    {
+      "date": "2026-08-26",
+      "close": 28.46,
+      "volume": 142477417,
+      "high": 29.14,
+      "low": 27.8,
+      "open": 28.0
+    },
+    {
+      "date": "2026-08-27",
+      "close": NaN,
+      "volume": 145687128,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "27/08/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082702317.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082702301.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082702293.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082702109.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082702017.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082701989.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082701983.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082701977.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082701973.pdf"
+    },
+    {
+      "date": "27/08/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0827/2026082701961.pdf"
+    }
+  ]
+}
