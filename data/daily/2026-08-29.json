@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-08-29T04:26:57.027221",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-08-17",
+      "close": 25.88,
+      "volume": 100082735,
+      "high": 26.24,
+      "low": 25.8,
+      "open": 25.8
+    },
+    {
+      "date": "2026-08-18",
+      "close": 26.18,
+      "volume": 179217011,
+      "high": 26.54,
+      "low": 25.22,
+      "open": 25.5
+    },
+    {
+      "date": "2026-08-19",
+      "close": 27.44,
+      "volume": 339866011,
+      "high": 28.08,
+      "low": 26.38,
+      "open": 26.96
+    },
+    {
+      "date": "2026-08-20",
+      "close": 27.76,
+      "volume": 178685384,
+      "high": 28.64,
+      "low": 27.5,
+      "open": 27.78
+    },
+    {
+      "date": "2026-08-21",
+      "close": 29.02,
+      "volume": 180377953,
+      "high": 29.1,
+      "low": 28.0,
+      "open": 28.4
+    },
+    {
+      "date": "2026-08-24",
+      "close": 27.82,
+      "volume": 158110022,
+      "high": 28.84,
+      "low": 27.54,
+      "open": 28.6
+    },
+    {
+      "date": "2026-08-25",
+      "close": 27.76,
+      "volume": 81489138,
+      "high": 28.48,
+      "low": 27.64,
+      "open": 28.32
+    },
+    {
+      "date": "2026-08-26",
+      "close": 28.46,
+      "volume": 142477417,
+      "high": 29.14,
+      "low": 27.8,
+      "open": 28.0
+    },
+    {
+      "date": "2026-08-27",
+      "close": 27.48,
+      "volume": 145686928,
+      "high": 28.64,
+      "low": 27.36,
+      "open": 28.46
+    },
+    {
+      "date": "2026-08-28",
+      "close": NaN,
+      "volume": 85332131,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "28/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804278.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804258.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804248.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804130.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804126.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804112.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082804030.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082803844.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Capital Reorganisatio...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082803840.pdf"
+    },
+    {
+      "date": "28/08/2026",
+      "title": "Documents on Display",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0828/2026082803784.pdf"
+    }
+  ]
+}
