@@ -1,16 +1,18 @@
 {
-  "fetch_time": "2026-09-01T00:25:55.277212",
-  "hkex_short_selling": null,
+  "fetch_time": "2026-09-01T21:44:16.644177",
+  "hkex_short_selling": {
+    "date": "2026-09-01",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 30394800,
+      "short_turnover_hkd": 843890220,
+      "implied_price": 27.76
+    },
+    "market": {}
+  },
   "sfc_short_position": null,
   "stock_prices": [
-    {
-      "date": "2026-08-18",
-      "close": 26.18,
-      "volume": 179217011,
-      "high": 26.54,
-      "low": 25.22,
-      "open": 25.5
-    },
     {
       "date": "2026-08-19",
       "close": 27.44,
@@ -77,73 +79,81 @@
     },
     {
       "date": "2026-08-31",
-      "close": NaN,
-      "volume": 90331600,
-      "high": NaN,
-      "low": NaN,
-      "open": NaN
+      "close": 27.62,
+      "volume": 90434800,
+      "high": 27.96,
+      "low": 27.42,
+      "open": 27.88
+    },
+    {
+      "date": "2026-09-01",
+      "close": 27.56,
+      "volume": 86643519,
+      "high": 28.12,
+      "low": 27.36,
+      "open": 27.52
     }
   ],
   "events": [
     {
-      "date": "31/08/2026",
-      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083103057.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Interim Results]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083103049.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Financial Statements/ESG Information - [Environmental, Social and Governance Information/Report]",
+      "date": "01/09/2026",
+      "title": "Announcements and Notices - [Other - Business Update]",
       "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102973.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103613.pdf"
     },
     {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Interim Results]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102963.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Final Results / Modified Report by Auditors]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102961.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Interim Results]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102945.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Delay in Results Announcement / Inside Information / Major Transaction ...",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102933.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Interim Results]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102847.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102837.pdf"
-    },
-    {
-      "date": "31/08/2026",
-      "title": "Announcements and Notices - [Other - Miscellaneous]",
+      "date": "01/09/2026",
+      "title": "Monthly Returns",
       "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0831/2026083102833.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103593.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103585.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Announcements and Notices - [Discloseable Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103521.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103495.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103459.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Announcements and Notices - [Results of AGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103457.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103445.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Announcements and Notices - [Change in Company Secretary / Change in Registered Address or Office, R...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103437.pdf"
+    },
+    {
+      "date": "01/09/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0901/2026090103431.pdf"
     }
   ]
 }
