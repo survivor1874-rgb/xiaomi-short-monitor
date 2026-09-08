@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-09-08T21:06:52.913951",
+  "hkex_short_selling": {
+    "date": "2026-09-08",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 85811600,
+      "short_turnover_hkd": 2306574484,
+      "implied_price": 26.88
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-08-26",
+      "close": 28.46,
+      "volume": 142477417,
+      "high": 29.14,
+      "low": 27.8,
+      "open": 28.0
+    },
+    {
+      "date": "2026-08-27",
+      "close": 27.48,
+      "volume": 145686928,
+      "high": 28.64,
+      "low": 27.36,
+      "open": 28.46
+    },
+    {
+      "date": "2026-08-28",
+      "close": 27.82,
+      "volume": 85331331,
+      "high": 28.26,
+      "low": 27.36,
+      "open": 27.48
+    },
+    {
+      "date": "2026-08-31",
+      "close": 27.62,
+      "volume": 90434800,
+      "high": 27.96,
+      "low": 27.42,
+      "open": 27.88
+    },
+    {
+      "date": "2026-09-01",
+      "close": 27.56,
+      "volume": 86622519,
+      "high": 28.12,
+      "low": 27.36,
+      "open": 27.52
+    },
+    {
+      "date": "2026-09-02",
+      "close": 28.06,
+      "volume": 115694198,
+      "high": 28.14,
+      "low": 27.08,
+      "open": 27.5
+    },
+    {
+      "date": "2026-09-03",
+      "close": 27.44,
+      "volume": 117455962,
+      "high": 28.56,
+      "low": 27.02,
+      "open": 28.3
+    },
+    {
+      "date": "2026-09-04",
+      "close": 28.44,
+      "volume": 178857691,
+      "high": 28.76,
+      "low": 27.66,
+      "open": 27.68
+    },
+    {
+      "date": "2026-09-07",
+      "close": 27.5,
+      "volume": 172668949,
+      "high": 28.4,
+      "low": 27.12,
+      "open": 28.22
+    },
+    {
+      "date": "2026-09-08",
+      "close": 26.92,
+      "volume": 169793507,
+      "high": 27.36,
+      "low": 26.56,
+      "open": 27.26
+    }
+  ],
+  "events": [
+    {
+      "date": "08/09/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090801093.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Announcements and Notices - [Change in Shareholding]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800917.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800793.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800781.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Next Day Disclosure Returns - [Share Buyback]",
+      "type": "buyback",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800684.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Announcements and Notices - [Profit Warning / Inside Information]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800520.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800508.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Next Day Disclosure Returns - [Others]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800454.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800300.pdf"
+    },
+    {
+      "date": "08/09/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0908/2026090800280.pdf"
+    }
+  ]
+}
