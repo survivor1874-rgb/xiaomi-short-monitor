@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-09-21T23:22:39.428794",
+  "hkex_short_selling": {
+    "date": "2026-09-21",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 29752800,
+      "short_turnover_hkd": 811361568,
+      "implied_price": 27.27
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-08",
+      "close": 26.92,
+      "volume": 169791507,
+      "high": 27.36,
+      "low": 26.56,
+      "open": 27.26
+    },
+    {
+      "date": "2026-09-09",
+      "close": 26.38,
+      "volume": 120334499,
+      "high": 26.8,
+      "low": 26.1,
+      "open": 26.7
+    },
+    {
+      "date": "2026-09-10",
+      "close": 25.92,
+      "volume": 148663013,
+      "high": 26.4,
+      "low": 25.68,
+      "open": 26.04
+    },
+    {
+      "date": "2026-09-11",
+      "close": 26.36,
+      "volume": 113533443,
+      "high": 26.66,
+      "low": 25.44,
+      "open": 25.66
+    },
+    {
+      "date": "2026-09-14",
+      "close": 27.16,
+      "volume": 110183277,
+      "high": 27.34,
+      "low": 26.42,
+      "open": 26.42
+    },
+    {
+      "date": "2026-09-15",
+      "close": 26.5,
+      "volume": 77282311,
+      "high": 27.4,
+      "low": 26.5,
+      "open": 27.12
+    },
+    {
+      "date": "2026-09-16",
+      "close": 26.18,
+      "volume": 74216945,
+      "high": 26.66,
+      "low": 25.92,
+      "open": 26.5
+    },
+    {
+      "date": "2026-09-17",
+      "close": 26.14,
+      "volume": 89304650,
+      "high": 26.44,
+      "low": 25.56,
+      "open": 25.7
+    },
+    {
+      "date": "2026-09-18",
+      "close": 26.4,
+      "volume": 109848697,
+      "high": 26.66,
+      "low": 25.98,
+      "open": 26.16
+    },
+    {
+      "date": "2026-09-21",
+      "close": 27.58,
+      "volume": 137700204,
+      "high": 27.58,
+      "low": 26.34,
+      "open": 26.4
+    }
+  ],
+  "events": [
+    {
+      "date": "21/09/2026",
+      "title": "Announcements and Notices - [Notice of EGM/SGM / Closure of Books or Change of Book Closure Period]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101770.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Announcements and Notices - [Capital Reorganisation / Trading Arrangements (other than Change in Boa...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101764.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Next Day Disclosure Returns - [Others]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101593.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Announcements and Notices - [Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101589.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101585.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101583.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101575.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Announcements and Notices - [Announcement by Offeree Company under the Takeovers Code / Capitalisati...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101413.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Announcements and Notices - [Results of AGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101411.pdf"
+    },
+    {
+      "date": "21/09/2026",
+      "title": "Announcements and Notices - [Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0921/2026092101381.pdf"
+    }
+  ]
+}
