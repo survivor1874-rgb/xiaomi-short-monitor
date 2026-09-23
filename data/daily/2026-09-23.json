@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-09-23T21:54:37.554568",
+  "hkex_short_selling": {
+    "date": "2026-09-23",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 56225800,
+      "short_turnover_hkd": 1489461896,
+      "implied_price": 26.49
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-10",
+      "close": 25.92,
+      "volume": 148663013,
+      "high": 26.4,
+      "low": 25.68,
+      "open": 26.04
+    },
+    {
+      "date": "2026-09-11",
+      "close": 26.36,
+      "volume": 113533443,
+      "high": 26.66,
+      "low": 25.44,
+      "open": 25.66
+    },
+    {
+      "date": "2026-09-14",
+      "close": 27.16,
+      "volume": 110183277,
+      "high": 27.34,
+      "low": 26.42,
+      "open": 26.42
+    },
+    {
+      "date": "2026-09-15",
+      "close": 26.5,
+      "volume": 77282311,
+      "high": 27.4,
+      "low": 26.5,
+      "open": 27.12
+    },
+    {
+      "date": "2026-09-16",
+      "close": 26.18,
+      "volume": 74216945,
+      "high": 26.66,
+      "low": 25.92,
+      "open": 26.5
+    },
+    {
+      "date": "2026-09-17",
+      "close": 26.14,
+      "volume": 89304650,
+      "high": 26.44,
+      "low": 25.56,
+      "open": 25.7
+    },
+    {
+      "date": "2026-09-18",
+      "close": 26.4,
+      "volume": 109848697,
+      "high": 26.66,
+      "low": 25.98,
+      "open": 26.16
+    },
+    {
+      "date": "2026-09-21",
+      "close": 27.58,
+      "volume": 137700004,
+      "high": 27.58,
+      "low": 26.34,
+      "open": 26.4
+    },
+    {
+      "date": "2026-09-22",
+      "close": 27.2,
+      "volume": 127872906,
+      "high": 28.22,
+      "low": 27.06,
+      "open": 27.98
+    },
+    {
+      "date": "2026-09-23",
+      "close": 26.18,
+      "volume": 126020027,
+      "high": 27.28,
+      "low": 26.16,
+      "open": 27.28
+    }
+  ],
+  "events": [
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Change in Board Lot Size]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301633.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Material Information after Issue of Circular]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301561.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Placing / Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301465.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301443.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Corporate Governance Related Matters...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301439.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301425.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301413.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Board/Supervisory Board Resolutions]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301157.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301141.pdf"
+    },
+    {
+      "date": "23/09/2026",
+      "title": "Announcements and Notices - [Change in Company Secretary]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0923/2026092301129.pdf"
+    }
+  ]
+}
