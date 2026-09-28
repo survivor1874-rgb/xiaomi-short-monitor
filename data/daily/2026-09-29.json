@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-09-29T01:04:46.685983",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-15",
+      "close": 26.5,
+      "volume": 77282311,
+      "high": 27.4,
+      "low": 26.5,
+      "open": 27.12
+    },
+    {
+      "date": "2026-09-16",
+      "close": 26.18,
+      "volume": 74216945,
+      "high": 26.66,
+      "low": 25.92,
+      "open": 26.5
+    },
+    {
+      "date": "2026-09-17",
+      "close": 26.14,
+      "volume": 89304650,
+      "high": 26.44,
+      "low": 25.56,
+      "open": 25.7
+    },
+    {
+      "date": "2026-09-18",
+      "close": 26.4,
+      "volume": 109848697,
+      "high": 26.66,
+      "low": 25.98,
+      "open": 26.16
+    },
+    {
+      "date": "2026-09-21",
+      "close": 27.58,
+      "volume": 137700004,
+      "high": 27.58,
+      "low": 26.34,
+      "open": 26.4
+    },
+    {
+      "date": "2026-09-22",
+      "close": 27.2,
+      "volume": 127872906,
+      "high": 28.22,
+      "low": 27.06,
+      "open": 27.98
+    },
+    {
+      "date": "2026-09-23",
+      "close": 26.18,
+      "volume": 126019027,
+      "high": 27.28,
+      "low": 26.16,
+      "open": 27.28
+    },
+    {
+      "date": "2026-09-24",
+      "close": 26.58,
+      "volume": 82395440,
+      "high": 26.68,
+      "low": 26.12,
+      "open": 26.14
+    },
+    {
+      "date": "2026-09-25",
+      "close": 25.9,
+      "volume": 78353485,
+      "high": 26.2,
+      "low": 25.36,
+      "open": 26.18
+    },
+    {
+      "date": "2026-09-28",
+      "close": NaN,
+      "volume": 110319422,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "28/09/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802145.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Notice of EGM/SGM]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802143.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Circulars - [Amendment of Constitutional Documents / Share Scheme / Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802141.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Inside Information / Placing / Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802139.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802063.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802057.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Rights Issue]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801991.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Results of AGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801807.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Inside Information / Winding Up and Liquidation of Issuer, its Holding ...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801801.pdf"
+    },
+    {
+      "date": "28/09/2026",
+      "title": "Announcements and Notices - [Final Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801753.pdf"
+    }
+  ]
+}
