@@ -1,16 +1,18 @@
 {
-  "fetch_time": "2026-09-29T01:04:46.685983",
-  "hkex_short_selling": null,
+  "fetch_time": "2026-09-29T23:10:11.135847",
+  "hkex_short_selling": {
+    "date": "2026-09-29",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 69854000,
+      "short_turnover_hkd": 1762695392,
+      "implied_price": 25.23
+    },
+    "market": {}
+  },
   "sfc_short_position": null,
   "stock_prices": [
-    {
-      "date": "2026-09-15",
-      "close": 26.5,
-      "volume": 77282311,
-      "high": 27.4,
-      "low": 26.5,
-      "open": 27.12
-    },
     {
       "date": "2026-09-16",
       "close": 26.18,
@@ -77,73 +79,81 @@
     },
     {
       "date": "2026-09-28",
-      "close": NaN,
-      "volume": 110319422,
-      "high": NaN,
-      "low": NaN,
-      "open": NaN
+      "close": 25.86,
+      "volume": 110319222,
+      "high": 26.3,
+      "low": 25.54,
+      "open": 25.98
+    },
+    {
+      "date": "2026-09-29",
+      "close": 25.2,
+      "volume": 146238749,
+      "high": 25.9,
+      "low": 25.04,
+      "open": 25.9
     }
   ],
   "events": [
     {
-      "date": "28/09/2026",
-      "title": "Proxy Forms",
+      "date": "29/09/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
       "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802145.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092902187.pdf"
     },
     {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Notice of EGM/SGM]",
+      "date": "29/09/2026",
+      "title": "Constitutional Documents",
       "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802143.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092902185.pdf"
     },
     {
-      "date": "28/09/2026",
-      "title": "Circulars - [Amendment of Constitutional Documents / Share Scheme / Other]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802141.pdf"
-    },
-    {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Inside Information / Placing / Issue of Shares under a General Mandate]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802139.pdf"
-    },
-    {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802063.pdf"
-    },
-    {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Overseas Regulatory Announcement - Other]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092802057.pdf"
-    },
-    {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Rights Issue]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801991.pdf"
-    },
-    {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Results of AGM]",
+      "date": "29/09/2026",
+      "title": "Financial Statements/ESG Information - [Annual Report / Environmental, Social and Governance Informa...",
       "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801807.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901995.pdf"
     },
     {
-      "date": "28/09/2026",
-      "title": "Announcements and Notices - [Inside Information / Winding Up and Liquidation of Issuer, its Holding ...",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801801.pdf"
-    },
-    {
-      "date": "28/09/2026",
+      "date": "29/09/2026",
       "title": "Announcements and Notices - [Final Results]",
       "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0928/2026092801753.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901977.pdf"
+    },
+    {
+      "date": "29/09/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901937.pdf"
+    },
+    {
+      "date": "29/09/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901901.pdf"
+    },
+    {
+      "date": "29/09/2026",
+      "title": "Documents on Display",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901867.pdf"
+    },
+    {
+      "date": "29/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901861.pdf"
+    },
+    {
+      "date": "29/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901859.pdf"
+    },
+    {
+      "date": "29/09/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0929/2026092901855.pdf"
     }
   ]
 }
