@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-09-30T23:25:12.146505",
+  "hkex_short_selling": {
+    "date": "2026-09-30",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 32286800,
+      "short_turnover_hkd": 813192992,
+      "implied_price": 25.19
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-17",
+      "close": 26.14,
+      "volume": 89304650,
+      "high": 26.44,
+      "low": 25.56,
+      "open": 25.7
+    },
+    {
+      "date": "2026-09-18",
+      "close": 26.4,
+      "volume": 109848697,
+      "high": 26.66,
+      "low": 25.98,
+      "open": 26.16
+    },
+    {
+      "date": "2026-09-21",
+      "close": 27.58,
+      "volume": 137700004,
+      "high": 27.58,
+      "low": 26.34,
+      "open": 26.4
+    },
+    {
+      "date": "2026-09-22",
+      "close": 27.2,
+      "volume": 127872906,
+      "high": 28.22,
+      "low": 27.06,
+      "open": 27.98
+    },
+    {
+      "date": "2026-09-23",
+      "close": 26.18,
+      "volume": 126019027,
+      "high": 27.28,
+      "low": 26.16,
+      "open": 27.28
+    },
+    {
+      "date": "2026-09-24",
+      "close": 26.58,
+      "volume": 82395440,
+      "high": 26.68,
+      "low": 26.12,
+      "open": 26.14
+    },
+    {
+      "date": "2026-09-25",
+      "close": 25.9,
+      "volume": 78353485,
+      "high": 26.2,
+      "low": 25.36,
+      "open": 26.18
+    },
+    {
+      "date": "2026-09-28",
+      "close": 25.86,
+      "volume": 110319222,
+      "high": 26.3,
+      "low": 25.54,
+      "open": 25.98
+    },
+    {
+      "date": "2026-09-29",
+      "close": 25.2,
+      "volume": 146204949,
+      "high": 25.9,
+      "low": 25.04,
+      "open": 25.9
+    },
+    {
+      "date": "2026-09-30",
+      "close": 25.24,
+      "volume": 120223400,
+      "high": 25.42,
+      "low": 24.82,
+      "open": 25.2
+    }
+  ],
+  "events": [
+    {
+      "date": "30/09/2026",
+      "title": "Announcements and Notices - [Final Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093003035.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002955.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002953.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Announcements and Notices - [Final Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002951.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Announcements and Notices - [Inside Information / Winding Up and Liquidation of Issuer, its Holding ...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002947.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002937.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002929.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Financial Statements/ESG Information - [Annual Report / Environmental, Social and Governance Informa...",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002927.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Announcements and Notices - [Final Results / Closure of Books or Change of Book Closure Period]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002921.pdf"
+    },
+    {
+      "date": "30/09/2026",
+      "title": "Announcements and Notices - [Inside Information / Other - Business Update / Suspension]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0930/2026093002903.pdf"
+    }
+  ]
+}
