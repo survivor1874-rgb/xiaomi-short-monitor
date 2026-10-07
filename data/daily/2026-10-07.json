@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-10-07T23:50:57.776568",
+  "hkex_short_selling": {
+    "date": "2026-10-07",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 15576800,
+      "short_turnover_hkd": 372649004,
+      "implied_price": 23.92
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-23",
+      "close": 26.18,
+      "volume": 126019027,
+      "high": 27.28,
+      "low": 26.16,
+      "open": 27.28
+    },
+    {
+      "date": "2026-09-24",
+      "close": 26.58,
+      "volume": 82395440,
+      "high": 26.68,
+      "low": 26.12,
+      "open": 26.14
+    },
+    {
+      "date": "2026-09-25",
+      "close": 25.9,
+      "volume": 78353485,
+      "high": 26.2,
+      "low": 25.36,
+      "open": 26.18
+    },
+    {
+      "date": "2026-09-28",
+      "close": 25.86,
+      "volume": 110319222,
+      "high": 26.3,
+      "low": 25.54,
+      "open": 25.98
+    },
+    {
+      "date": "2026-09-29",
+      "close": 25.2,
+      "volume": 146204949,
+      "high": 25.9,
+      "low": 25.04,
+      "open": 25.9
+    },
+    {
+      "date": "2026-09-30",
+      "close": 25.24,
+      "volume": 120214000,
+      "high": 25.42,
+      "low": 24.82,
+      "open": 25.2
+    },
+    {
+      "date": "2026-10-02",
+      "close": 24.24,
+      "volume": 129403051,
+      "high": 24.7,
+      "low": 23.74,
+      "open": 24.62
+    },
+    {
+      "date": "2026-10-05",
+      "close": 23.88,
+      "volume": 88394509,
+      "high": 24.08,
+      "low": 23.7,
+      "open": 23.88
+    },
+    {
+      "date": "2026-10-06",
+      "close": 24.26,
+      "volume": 81202605,
+      "high": 24.4,
+      "low": 23.8,
+      "open": 23.92
+    },
+    {
+      "date": "2026-10-07",
+      "close": 23.94,
+      "volume": 46116080,
+      "high": 24.24,
+      "low": 23.7,
+      "open": 24.2
+    }
+  ],
+  "events": [
+    {
+      "date": "07/10/2026",
+      "title": "Announcements and Notices - [Capital Reorganisation / Rights Issue / Change in Board Lot Size / Trad...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701981.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701889.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Next Day Disclosure Returns - [Others]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701885.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Announcements and Notices - [Placing / Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701879.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Announcements and Notices - [Share Transaction / Issue of Shares under a General Mandate / Considera...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701843.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Rights Issue / Tradin...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701825.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701784.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Announcements and Notices - [Material Information after Issue of Circular]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701737.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous / Suspension]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701723.pdf"
+    },
+    {
+      "date": "07/10/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1007/2026100701719.pdf"
+    }
+  ]
+}
