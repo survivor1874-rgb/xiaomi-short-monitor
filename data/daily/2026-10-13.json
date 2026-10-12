@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-10-13T02:16:22.559591",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-28",
+      "close": 25.86,
+      "volume": 110319222,
+      "high": 26.3,
+      "low": 25.54,
+      "open": 25.98
+    },
+    {
+      "date": "2026-09-29",
+      "close": 25.2,
+      "volume": 146204949,
+      "high": 25.9,
+      "low": 25.04,
+      "open": 25.9
+    },
+    {
+      "date": "2026-09-30",
+      "close": 25.24,
+      "volume": 120214000,
+      "high": 25.42,
+      "low": 24.82,
+      "open": 25.2
+    },
+    {
+      "date": "2026-10-02",
+      "close": 24.24,
+      "volume": 129403051,
+      "high": 24.7,
+      "low": 23.74,
+      "open": 24.62
+    },
+    {
+      "date": "2026-10-05",
+      "close": 23.88,
+      "volume": 88394509,
+      "high": 24.08,
+      "low": 23.7,
+      "open": 23.88
+    },
+    {
+      "date": "2026-10-06",
+      "close": 24.26,
+      "volume": 81202605,
+      "high": 24.4,
+      "low": 23.8,
+      "open": 23.92
+    },
+    {
+      "date": "2026-10-07",
+      "close": 23.94,
+      "volume": 46114080,
+      "high": 24.24,
+      "low": 23.7,
+      "open": 24.2
+    },
+    {
+      "date": "2026-10-08",
+      "close": 23.66,
+      "volume": 97457649,
+      "high": 24.56,
+      "low": 23.58,
+      "open": 24.08
+    },
+    {
+      "date": "2026-10-09",
+      "close": 25.96,
+      "volume": 255608451,
+      "high": 25.96,
+      "low": 23.78,
+      "open": 23.84
+    },
+    {
+      "date": "2026-10-12",
+      "close": NaN,
+      "volume": 182808010,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101201161.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Discloseable Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200917.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200761.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Other - Miscellaneous / Inside Information / Suspension]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200681.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Next Day Disclosure Returns - [Share Buyback]",
+      "type": "buyback",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200627.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200589.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Next Day Disclosure Returns - [Share Buyback]",
+      "type": "buyback",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200545.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Capital Reorganisation]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200541.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Change of Company Name / Trading Arrangements (other than Change in Boa...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200364.pdf"
+    },
+    {
+      "date": "12/10/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1012/2026101200330.pdf"
+    }
+  ]
+}
