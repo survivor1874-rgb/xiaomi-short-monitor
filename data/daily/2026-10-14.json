@@ -1,0 +1,141 @@
+{
+  "fetch_time": "2026-10-14T00:30:16.861282",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-09-29",
+      "close": 25.2,
+      "volume": 146204949,
+      "high": 25.9,
+      "low": 25.04,
+      "open": 25.9
+    },
+    {
+      "date": "2026-09-30",
+      "close": 25.24,
+      "volume": 120214000,
+      "high": 25.42,
+      "low": 24.82,
+      "open": 25.2
+    },
+    {
+      "date": "2026-10-02",
+      "close": 24.24,
+      "volume": 129403051,
+      "high": 24.7,
+      "low": 23.74,
+      "open": 24.62
+    },
+    {
+      "date": "2026-10-05",
+      "close": 23.88,
+      "volume": 88394509,
+      "high": 24.08,
+      "low": 23.7,
+      "open": 23.88
+    },
+    {
+      "date": "2026-10-06",
+      "close": 24.26,
+      "volume": 81202605,
+      "high": 24.4,
+      "low": 23.8,
+      "open": 23.92
+    },
+    {
+      "date": "2026-10-07",
+      "close": 23.94,
+      "volume": 46114080,
+      "high": 24.24,
+      "low": 23.7,
+      "open": 24.2
+    },
+    {
+      "date": "2026-10-08",
+      "close": 23.66,
+      "volume": 97457649,
+      "high": 24.56,
+      "low": 23.58,
+      "open": 24.08
+    },
+    {
+      "date": "2026-10-09",
+      "close": 25.96,
+      "volume": 255608451,
+      "high": 25.96,
+      "low": 23.78,
+      "open": 23.84
+    },
+    {
+      "date": "2026-10-13",
+      "close": NaN,
+      "volume": 154848800,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "13/10/2026",
+      "title": "Announcements and Notices - [Rights Issue / Allotment Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301109.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM / Share Scheme]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301099.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM / Capital Reorganisation / Trading Arrangements (oth...",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301097.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Continuing Connected ...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301003.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300715.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300635.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300597.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300531.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Next Day Disclosure Returns - [Share Buyback]",
+      "type": "buyback",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300521.pdf"
+    },
+    {
+      "date": "13/10/2026",
+      "title": "Announcements and Notices - [Notice of EGM/SGM / Closure of Books or Change of Book Closure Period]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300509.pdf"
+    }
+  ]
+}
