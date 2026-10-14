@@ -1,16 +1,18 @@
 {
-  "fetch_time": "2026-10-14T00:30:16.861282",
-  "hkex_short_selling": null,
+  "fetch_time": "2026-10-14T22:06:13.380343",
+  "hkex_short_selling": {
+    "date": "2026-10-14",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 63061400,
+      "short_turnover_hkd": 1649762036,
+      "implied_price": 26.16
+    },
+    "market": {}
+  },
   "sfc_short_position": null,
   "stock_prices": [
-    {
-      "date": "2026-09-29",
-      "close": 25.2,
-      "volume": 146204949,
-      "high": 25.9,
-      "low": 25.04,
-      "open": 25.9
-    },
     {
       "date": "2026-09-30",
       "close": 25.24,
@@ -68,74 +70,90 @@
       "open": 23.84
     },
     {
+      "date": "2026-10-12",
+      "close": 24.52,
+      "volume": 182805610,
+      "high": 25.84,
+      "low": 24.3,
+      "open": 25.8
+    },
+    {
       "date": "2026-10-13",
-      "close": NaN,
-      "volume": 154848800,
-      "high": NaN,
-      "low": NaN,
-      "open": NaN
+      "close": 25.04,
+      "volume": 154845600,
+      "high": 25.14,
+      "low": 24.0,
+      "open": 24.72
+    },
+    {
+      "date": "2026-10-14",
+      "close": 26.38,
+      "volume": 277524009,
+      "high": 26.84,
+      "low": 24.66,
+      "open": 24.88
     }
   ],
   "events": [
     {
-      "date": "13/10/2026",
-      "title": "Announcements and Notices - [Rights Issue / Allotment Results]",
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Notice of EGM/SGM]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401275.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Change in Auditors / Change in Auditors subject to Shareholders&#x27; A...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401253.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Placing / Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401243.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM]",
       "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301109.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401217.pdf"
     },
     {
-      "date": "13/10/2026",
-      "title": "Announcements and Notices - [Results of EGM/SGM / Share Scheme]",
+      "date": "14/10/2026",
+      "title": "Next Day Disclosure Returns - [Others]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101400859.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Announcement by Offeree Company under the Takeovers Code / Connected Tr...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101400839.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Inside Information / Winding Up and Liquidation of Issuer, its Holding ...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101400735.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101400701.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM]",
       "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301099.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101400577.pdf"
     },
     {
-      "date": "13/10/2026",
-      "title": "Announcements and Notices - [Results of EGM/SGM / Capital Reorganisation / Trading Arrangements (oth...",
-      "type": "earnings",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301097.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Continuing Connected ...",
+      "date": "14/10/2026",
+      "title": "Next Day Disclosure Returns - [Others]",
       "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101301003.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Announcements and Notices - [Date of Board Meeting]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300715.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Circulars - [Other]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300635.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Circulars - [Other]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300597.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Proxy Forms",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300531.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Next Day Disclosure Returns - [Share Buyback]",
-      "type": "buyback",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300521.pdf"
-    },
-    {
-      "date": "13/10/2026",
-      "title": "Announcements and Notices - [Notice of EGM/SGM / Closure of Books or Change of Book Closure Period]",
-      "type": "other",
-      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1013/2026101300509.pdf"
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101400433.pdf"
     }
   ]
 }
