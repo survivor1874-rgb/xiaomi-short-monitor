@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-10-15T21:44:07.577610",
+  "hkex_short_selling": {
+    "date": "2026-10-15",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 70131400,
+      "short_turnover_hkd": 1892014912,
+      "implied_price": 26.98
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-02",
+      "close": 24.24,
+      "volume": 129403051,
+      "high": 24.7,
+      "low": 23.74,
+      "open": 24.62
+    },
+    {
+      "date": "2026-10-05",
+      "close": 23.88,
+      "volume": 88394509,
+      "high": 24.08,
+      "low": 23.7,
+      "open": 23.88
+    },
+    {
+      "date": "2026-10-06",
+      "close": 24.26,
+      "volume": 81202605,
+      "high": 24.4,
+      "low": 23.8,
+      "open": 23.92
+    },
+    {
+      "date": "2026-10-07",
+      "close": 23.94,
+      "volume": 46114080,
+      "high": 24.24,
+      "low": 23.7,
+      "open": 24.2
+    },
+    {
+      "date": "2026-10-08",
+      "close": 23.66,
+      "volume": 97457649,
+      "high": 24.56,
+      "low": 23.58,
+      "open": 24.08
+    },
+    {
+      "date": "2026-10-09",
+      "close": 25.96,
+      "volume": 255608451,
+      "high": 25.96,
+      "low": 23.78,
+      "open": 23.84
+    },
+    {
+      "date": "2026-10-12",
+      "close": 24.52,
+      "volume": 182805610,
+      "high": 25.84,
+      "low": 24.3,
+      "open": 25.8
+    },
+    {
+      "date": "2026-10-13",
+      "close": 25.04,
+      "volume": 154845600,
+      "high": 25.14,
+      "low": 24.0,
+      "open": 24.72
+    },
+    {
+      "date": "2026-10-14",
+      "close": 26.38,
+      "volume": 277522009,
+      "high": 26.84,
+      "low": 24.66,
+      "open": 24.88
+    },
+    {
+      "date": "2026-10-15",
+      "close": 27.08,
+      "volume": 266495588,
+      "high": 27.26,
+      "low": 25.98,
+      "open": 26.0
+    }
+  ],
+  "events": [
+    {
+      "date": "15/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101501074.pdf"
+    },
+    {
+      "date": "15/10/2026",
+      "title": "Announcements and Notices - [Announcement by Offeree Company under the Takeovers Code / Announcement...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101501052.pdf"
+    },
+    {
+      "date": "15/10/2026",
+      "title": "Announcements and Notices - [Share Scheme]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101500892.pdf"
+    },
+    {
+      "date": "15/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101500763.pdf"
+    },
+    {
+      "date": "15/10/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Rights Issue / Tradin...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101500701.pdf"
+    },
+    {
+      "date": "15/10/2026",
+      "title": "Announcements and Notices - [Continuing Connected Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101500673.pdf"
+    },
+    {
+      "date": "15/10/2026",
+      "title": "Announcements and Notices - [Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1015/2026101500394.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Announcements and Notices - [Rights Issue / Trading Arrangements (other than Change in Board Lot Siz...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401313.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401307.pdf"
+    },
+    {
+      "date": "14/10/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1014/2026101401289.pdf"
+    }
+  ]
+}
