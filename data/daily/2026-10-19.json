@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-10-19T23:55:06.537651",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-05",
+      "close": 23.88,
+      "volume": 88394509,
+      "high": 24.08,
+      "low": 23.7,
+      "open": 23.88
+    },
+    {
+      "date": "2026-10-06",
+      "close": 24.26,
+      "volume": 81202605,
+      "high": 24.4,
+      "low": 23.8,
+      "open": 23.92
+    },
+    {
+      "date": "2026-10-07",
+      "close": 23.94,
+      "volume": 46114080,
+      "high": 24.24,
+      "low": 23.7,
+      "open": 24.2
+    },
+    {
+      "date": "2026-10-08",
+      "close": 23.66,
+      "volume": 97457649,
+      "high": 24.56,
+      "low": 23.58,
+      "open": 24.08
+    },
+    {
+      "date": "2026-10-09",
+      "close": 25.96,
+      "volume": 255608451,
+      "high": 25.96,
+      "low": 23.78,
+      "open": 23.84
+    },
+    {
+      "date": "2026-10-12",
+      "close": 24.52,
+      "volume": 182805610,
+      "high": 25.84,
+      "low": 24.3,
+      "open": 25.8
+    },
+    {
+      "date": "2026-10-13",
+      "close": 25.04,
+      "volume": 154845600,
+      "high": 25.14,
+      "low": 24.0,
+      "open": 24.72
+    },
+    {
+      "date": "2026-10-14",
+      "close": 26.38,
+      "volume": 277522009,
+      "high": 26.84,
+      "low": 24.66,
+      "open": 24.88
+    },
+    {
+      "date": "2026-10-15",
+      "close": 27.08,
+      "volume": 266494588,
+      "high": 27.26,
+      "low": 25.98,
+      "open": 26.0
+    },
+    {
+      "date": "2026-10-16",
+      "close": 26.66,
+      "volume": 154063268,
+      "high": 27.62,
+      "low": 26.56,
+      "open": 27.02
+    }
+  ],
+  "events": [
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601488.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601486.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [Major Transaction / Delay in Dispatch of Circular or other Document]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601474.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601384.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [Rights Issue / Allotment Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601366.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "(Headlines Revised) Announcements and Notices - [Capital Reorganisation / Change in Board Lot Size /...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601282.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601308.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601304.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601302.pdf"
+    },
+    {
+      "date": "16/10/2026",
+      "title": "(Cancelled since Headlines Superseded and Replaced) Announcements and Notices - [Capital Reorganisat...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1016/2026101601282.pdf"
+    }
+  ]
+}
