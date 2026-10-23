@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-10-23T21:52:19.311404",
+  "hkex_short_selling": {
+    "date": "2026-10-23",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 56049400,
+      "short_turnover_hkd": 1508718004,
+      "implied_price": 26.92
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-09",
+      "close": 25.96,
+      "volume": 255608451,
+      "high": 25.96,
+      "low": 23.78,
+      "open": 23.84
+    },
+    {
+      "date": "2026-10-12",
+      "close": 24.52,
+      "volume": 182805610,
+      "high": 25.84,
+      "low": 24.3,
+      "open": 25.8
+    },
+    {
+      "date": "2026-10-13",
+      "close": 25.04,
+      "volume": 154845600,
+      "high": 25.14,
+      "low": 24.0,
+      "open": 24.72
+    },
+    {
+      "date": "2026-10-14",
+      "close": 26.38,
+      "volume": 277522009,
+      "high": 26.84,
+      "low": 24.66,
+      "open": 24.88
+    },
+    {
+      "date": "2026-10-15",
+      "close": 27.08,
+      "volume": 266494588,
+      "high": 27.26,
+      "low": 25.98,
+      "open": 26.0
+    },
+    {
+      "date": "2026-10-16",
+      "close": 26.66,
+      "volume": 154063268,
+      "high": 27.62,
+      "low": 26.56,
+      "open": 27.02
+    },
+    {
+      "date": "2026-10-20",
+      "close": 27.06,
+      "volume": 106176019,
+      "high": 27.46,
+      "low": 26.56,
+      "open": 26.84
+    },
+    {
+      "date": "2026-10-21",
+      "close": 26.8,
+      "volume": 144463851,
+      "high": 27.76,
+      "low": 26.54,
+      "open": 27.28
+    },
+    {
+      "date": "2026-10-22",
+      "close": 25.8,
+      "volume": 149385160,
+      "high": 26.62,
+      "low": 25.66,
+      "open": 26.6
+    },
+    {
+      "date": "2026-10-23",
+      "close": 26.8,
+      "volume": 216291102,
+      "high": 27.4,
+      "low": 25.88,
+      "open": 26.0
+    }
+  ],
+  "events": [
+    {
+      "date": "23/10/2026",
+      "title": "Announcements and Notices - [Major Transaction / Delay in Dispatch of Circular or other Document]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301495.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Announcements and Notices - [Connected Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301485.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301447.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301441.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301437.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301429.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301423.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Continuing Connected ...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301419.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Announcements and Notices - [Notice of EGM/SGM / Closure of Books or Change of Book Closure Period]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301415.pdf"
+    },
+    {
+      "date": "23/10/2026",
+      "title": "Circulars - [Exchange or Substitution of Securities]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1023/2026102301411.pdf"
+    }
+  ]
+}
