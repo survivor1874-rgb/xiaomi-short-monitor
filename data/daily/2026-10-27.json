@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-10-27T22:58:04.369788",
+  "hkex_short_selling": {
+    "date": "2026-10-27",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 48984000,
+      "short_turnover_hkd": 1266014248,
+      "implied_price": 25.85
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-13",
+      "close": 25.04,
+      "volume": 154845600,
+      "high": 25.14,
+      "low": 24.0,
+      "open": 24.72
+    },
+    {
+      "date": "2026-10-14",
+      "close": 26.38,
+      "volume": 277522009,
+      "high": 26.84,
+      "low": 24.66,
+      "open": 24.88
+    },
+    {
+      "date": "2026-10-15",
+      "close": 27.08,
+      "volume": 266494588,
+      "high": 27.26,
+      "low": 25.98,
+      "open": 26.0
+    },
+    {
+      "date": "2026-10-16",
+      "close": 26.66,
+      "volume": 154063268,
+      "high": 27.62,
+      "low": 26.56,
+      "open": 27.02
+    },
+    {
+      "date": "2026-10-20",
+      "close": 27.06,
+      "volume": 106176019,
+      "high": 27.46,
+      "low": 26.56,
+      "open": 26.84
+    },
+    {
+      "date": "2026-10-21",
+      "close": 26.8,
+      "volume": 144463851,
+      "high": 27.76,
+      "low": 26.54,
+      "open": 27.28
+    },
+    {
+      "date": "2026-10-22",
+      "close": 25.8,
+      "volume": 149385160,
+      "high": 26.62,
+      "low": 25.66,
+      "open": 26.6
+    },
+    {
+      "date": "2026-10-23",
+      "close": 26.8,
+      "volume": 216285102,
+      "high": 27.4,
+      "low": 25.88,
+      "open": 26.0
+    },
+    {
+      "date": "2026-10-26",
+      "close": 26.9,
+      "volume": 93020945,
+      "high": 27.0,
+      "low": 26.32,
+      "open": 26.94
+    },
+    {
+      "date": "2026-10-27",
+      "close": 25.66,
+      "volume": 138527288,
+      "high": 27.04,
+      "low": 25.48,
+      "open": 26.7
+    }
+  ],
+  "events": [
+    {
+      "date": "27/10/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102701365.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102701093.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM / Change in Auditors subject to Shareholders&#x27; A...",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102701025.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Placing / Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700991.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Discloseable Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700971.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700824.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700604.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700574.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700414.pdf"
+    },
+    {
+      "date": "27/10/2026",
+      "title": "Announcements and Notices - [Profit Warning / Inside Information]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1027/2026102700356.pdf"
+    }
+  ]
+}
