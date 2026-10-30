@@ -1,0 +1,159 @@
+{
+  "fetch_time": "2026-10-30T23:23:29.313796",
+  "hkex_short_selling": {
+    "date": "2026-10-30",
+    "stock": {
+      "code": "1810",
+      "name": "XIAOMI",
+      "short_shares": 52358000,
+      "short_turnover_hkd": 1398338308,
+      "implied_price": 26.71
+    },
+    "market": {}
+  },
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-16",
+      "close": 26.66,
+      "volume": 154063268,
+      "high": 27.62,
+      "low": 26.56,
+      "open": 27.02
+    },
+    {
+      "date": "2026-10-20",
+      "close": 27.06,
+      "volume": 106176019,
+      "high": 27.46,
+      "low": 26.56,
+      "open": 26.84
+    },
+    {
+      "date": "2026-10-21",
+      "close": 26.8,
+      "volume": 144463851,
+      "high": 27.76,
+      "low": 26.54,
+      "open": 27.28
+    },
+    {
+      "date": "2026-10-22",
+      "close": 25.8,
+      "volume": 149385160,
+      "high": 26.62,
+      "low": 25.66,
+      "open": 26.6
+    },
+    {
+      "date": "2026-10-23",
+      "close": 26.8,
+      "volume": 216285102,
+      "high": 27.4,
+      "low": 25.88,
+      "open": 26.0
+    },
+    {
+      "date": "2026-10-26",
+      "close": 26.9,
+      "volume": 93020945,
+      "high": 27.0,
+      "low": 26.32,
+      "open": 26.94
+    },
+    {
+      "date": "2026-10-27",
+      "close": 25.66,
+      "volume": 138526488,
+      "high": 27.04,
+      "low": 25.48,
+      "open": 26.7
+    },
+    {
+      "date": "2026-10-28",
+      "close": 25.62,
+      "volume": 76918974,
+      "high": 25.98,
+      "low": 25.4,
+      "open": 25.8
+    },
+    {
+      "date": "2026-10-29",
+      "close": 25.68,
+      "volume": 88051477,
+      "high": 26.08,
+      "low": 25.46,
+      "open": 25.7
+    },
+    {
+      "date": "2026-10-30",
+      "close": 26.48,
+      "volume": 207860564,
+      "high": 27.28,
+      "low": 26.02,
+      "open": 26.08
+    }
+  ],
+  "events": [
+    {
+      "date": "30/10/2026",
+      "title": "Documents on Display",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002741.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002737.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002735.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Announcements and Notices - [Notice of EGM/SGM]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002733.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Proxy Forms",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002731.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Circulars - [Major Transaction / Connected Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002709.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Announcements and Notices - [Inside Information / Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002689.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Announcements and Notices - [Major Transaction / Delay in Dispatch of Circular or other Document]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002683.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Announcements and Notices - [Inside Information / Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002617.pdf"
+    },
+    {
+      "date": "30/10/2026",
+      "title": "Announcements and Notices - [Major Transaction / Connected Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1030/2026103002605.pdf"
+    }
+  ]
+}
