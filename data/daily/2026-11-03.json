@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-11-03T02:53:53.805442",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-20",
+      "close": 27.06,
+      "volume": 106176019,
+      "high": 27.46,
+      "low": 26.56,
+      "open": 26.84
+    },
+    {
+      "date": "2026-10-21",
+      "close": 26.8,
+      "volume": 144463851,
+      "high": 27.76,
+      "low": 26.54,
+      "open": 27.28
+    },
+    {
+      "date": "2026-10-22",
+      "close": 25.8,
+      "volume": 149385160,
+      "high": 26.62,
+      "low": 25.66,
+      "open": 26.6
+    },
+    {
+      "date": "2026-10-23",
+      "close": 26.8,
+      "volume": 216285102,
+      "high": 27.4,
+      "low": 25.88,
+      "open": 26.0
+    },
+    {
+      "date": "2026-10-26",
+      "close": 26.9,
+      "volume": 93020945,
+      "high": 27.0,
+      "low": 26.32,
+      "open": 26.94
+    },
+    {
+      "date": "2026-10-27",
+      "close": 25.66,
+      "volume": 138526488,
+      "high": 27.04,
+      "low": 25.48,
+      "open": 26.7
+    },
+    {
+      "date": "2026-10-28",
+      "close": 25.62,
+      "volume": 76918974,
+      "high": 25.98,
+      "low": 25.4,
+      "open": 25.8
+    },
+    {
+      "date": "2026-10-29",
+      "close": 25.68,
+      "volume": 88051477,
+      "high": 26.08,
+      "low": 25.46,
+      "open": 25.7
+    },
+    {
+      "date": "2026-10-30",
+      "close": 26.48,
+      "volume": 207858964,
+      "high": 27.28,
+      "low": 26.02,
+      "open": 26.08
+    },
+    {
+      "date": "2026-11-02",
+      "close": NaN,
+      "volume": 270183853,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "02/11/2026",
+      "title": "Announcements and Notices - [Announcement by Offeree Company under the Takeovers Code]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203913.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203911.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Announcements and Notices - [Announcement by Offeree Company under the Takeovers Code / Announcement...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203897.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Circulars - [Other]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203895.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Financial Statements/ESG Information - [Interim/Half-Year Report]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203893.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203875.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203857.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Announcements and Notices - [Change in Shareholding]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203841.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Monthly Returns",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203795.pdf"
+    },
+    {
+      "date": "02/11/2026",
+      "title": "Announcements and Notices - [Share Scheme]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1102/2026110203755.pdf"
+    }
+  ]
+}
