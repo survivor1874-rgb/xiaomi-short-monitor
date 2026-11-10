@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-11-11T00:38:22.974687",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-10-28",
+      "close": 25.62,
+      "volume": 76918974,
+      "high": 25.98,
+      "low": 25.4,
+      "open": 25.8
+    },
+    {
+      "date": "2026-10-29",
+      "close": 25.68,
+      "volume": 88051477,
+      "high": 26.08,
+      "low": 25.46,
+      "open": 25.7
+    },
+    {
+      "date": "2026-10-30",
+      "close": 26.48,
+      "volume": 207858964,
+      "high": 27.28,
+      "low": 26.02,
+      "open": 26.08
+    },
+    {
+      "date": "2026-11-02",
+      "close": 28.1,
+      "volume": 270210653,
+      "high": 28.44,
+      "low": 26.82,
+      "open": 26.9
+    },
+    {
+      "date": "2026-11-03",
+      "close": 28.6,
+      "volume": 202982521,
+      "high": 28.92,
+      "low": 28.12,
+      "open": 28.64
+    },
+    {
+      "date": "2026-11-04",
+      "close": 28.76,
+      "volume": 179954271,
+      "high": 28.84,
+      "low": 27.62,
+      "open": 28.1
+    },
+    {
+      "date": "2026-11-05",
+      "close": 31.3,
+      "volume": 490522111,
+      "high": 31.4,
+      "low": 29.62,
+      "open": 30.0
+    },
+    {
+      "date": "2026-11-06",
+      "close": 30.38,
+      "volume": 303884871,
+      "high": 31.74,
+      "low": 30.22,
+      "open": 31.0
+    },
+    {
+      "date": "2026-11-09",
+      "close": 30.1,
+      "volume": 129809779,
+      "high": 31.06,
+      "low": 29.94,
+      "open": 30.98
+    },
+    {
+      "date": "2026-11-10",
+      "close": NaN,
+      "volume": 103337889,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [Inside Information / Profit Warning]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111001021.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [Change in a Director&#x27;s or Supervisor&#x27;s Biographical Details]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111001017.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000961.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000949.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000897.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000797.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [Change in Auditors]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000792.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000682.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000668.pdf"
+    },
+    {
+      "date": "10/11/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1110/2026111000638.pdf"
+    }
+  ]
+}
