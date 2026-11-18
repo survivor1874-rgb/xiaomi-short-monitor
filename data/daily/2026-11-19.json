@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-11-19T01:38:28.627323",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-11-05",
+      "close": 31.3,
+      "volume": 490522111,
+      "high": 31.4,
+      "low": 29.62,
+      "open": 30.0
+    },
+    {
+      "date": "2026-11-06",
+      "close": 30.38,
+      "volume": 303884871,
+      "high": 31.74,
+      "low": 30.22,
+      "open": 31.0
+    },
+    {
+      "date": "2026-11-09",
+      "close": 30.1,
+      "volume": 129809779,
+      "high": 31.06,
+      "low": 29.94,
+      "open": 30.98
+    },
+    {
+      "date": "2026-11-10",
+      "close": 30.6,
+      "volume": 103359489,
+      "high": 31.04,
+      "low": 29.68,
+      "open": 29.96
+    },
+    {
+      "date": "2026-11-11",
+      "close": 30.1,
+      "volume": 110336033,
+      "high": 31.02,
+      "low": 29.84,
+      "open": 30.44
+    },
+    {
+      "date": "2026-11-12",
+      "close": 29.98,
+      "volume": 109558509,
+      "high": 30.36,
+      "low": 29.54,
+      "open": 29.88
+    },
+    {
+      "date": "2026-11-13",
+      "close": 28.86,
+      "volume": 109152387,
+      "high": 29.8,
+      "low": 28.8,
+      "open": 29.74
+    },
+    {
+      "date": "2026-11-16",
+      "close": 29.08,
+      "volume": 93525833,
+      "high": 29.46,
+      "low": 28.7,
+      "open": 29.0
+    },
+    {
+      "date": "2026-11-17",
+      "close": 29.7,
+      "volume": 166780913,
+      "high": 30.52,
+      "low": 28.46,
+      "open": 29.08
+    },
+    {
+      "date": "2026-11-18",
+      "close": NaN,
+      "volume": 100191065,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Closure of Books or Change of Book Closure Period / Change in Directors...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801441.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801431.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Other - Business Update]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801417.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Change in Registered Address or Office, Registered Place of Business in...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801375.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Results of EGM/SGM]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801357.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Rights Issue]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801349.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Date of Board Meeting]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801250.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Company Information Sheet",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801229.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801213.pdf"
+    },
+    {
+      "date": "18/11/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1118/2026111801205.pdf"
+    }
+  ]
+}
