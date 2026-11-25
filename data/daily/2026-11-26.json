@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-11-26T02:52:21.661672",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-11-12",
+      "close": 29.98,
+      "volume": 109558509,
+      "high": 30.36,
+      "low": 29.54,
+      "open": 29.88
+    },
+    {
+      "date": "2026-11-13",
+      "close": 28.86,
+      "volume": 109152387,
+      "high": 29.8,
+      "low": 28.8,
+      "open": 29.74
+    },
+    {
+      "date": "2026-11-16",
+      "close": 29.08,
+      "volume": 93525833,
+      "high": 29.46,
+      "low": 28.7,
+      "open": 29.0
+    },
+    {
+      "date": "2026-11-17",
+      "close": 29.7,
+      "volume": 166780913,
+      "high": 30.52,
+      "low": 28.46,
+      "open": 29.08
+    },
+    {
+      "date": "2026-11-18",
+      "close": 29.66,
+      "volume": 100207665,
+      "high": 30.1,
+      "low": 29.42,
+      "open": 29.92
+    },
+    {
+      "date": "2026-11-19",
+      "close": 28.52,
+      "volume": 134914060,
+      "high": 29.14,
+      "low": 28.26,
+      "open": 29.0
+    },
+    {
+      "date": "2026-11-20",
+      "close": 27.64,
+      "volume": 157739608,
+      "high": 28.3,
+      "low": 27.4,
+      "open": 28.2
+    },
+    {
+      "date": "2026-11-23",
+      "close": 27.52,
+      "volume": 132508409,
+      "high": 27.7,
+      "low": 26.8,
+      "open": 27.16
+    },
+    {
+      "date": "2026-11-24",
+      "close": 26.5,
+      "volume": 232838214,
+      "high": 27.84,
+      "low": 25.9,
+      "open": 27.52
+    },
+    {
+      "date": "2026-11-25",
+      "close": NaN,
+      "volume": 247096558,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [List of Directors and their Role and Function]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501701.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Change in Directors or of Important Executive Functions or Responsibili...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501693.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501659.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501633.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Profit Warning / Inside Information]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501617.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Major Transaction / Connected Transaction]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501525.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Rights Issue / Capita...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501475.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501473.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Issue of Shares under a General Mandate]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501463.pdf"
+    },
+    {
+      "date": "25/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1125/2026112501453.pdf"
+    }
+  ]
+}
