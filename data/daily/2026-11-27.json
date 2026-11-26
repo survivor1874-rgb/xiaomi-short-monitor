@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2026-11-27T02:41:19.631772",
+  "hkex_short_selling": null,
+  "sfc_short_position": null,
+  "stock_prices": [
+    {
+      "date": "2026-11-13",
+      "close": 28.86,
+      "volume": 109152387,
+      "high": 29.8,
+      "low": 28.8,
+      "open": 29.74
+    },
+    {
+      "date": "2026-11-16",
+      "close": 29.08,
+      "volume": 93525833,
+      "high": 29.46,
+      "low": 28.7,
+      "open": 29.0
+    },
+    {
+      "date": "2026-11-17",
+      "close": 29.7,
+      "volume": 166780913,
+      "high": 30.52,
+      "low": 28.46,
+      "open": 29.08
+    },
+    {
+      "date": "2026-11-18",
+      "close": 29.66,
+      "volume": 100207665,
+      "high": 30.1,
+      "low": 29.42,
+      "open": 29.92
+    },
+    {
+      "date": "2026-11-19",
+      "close": 28.52,
+      "volume": 134914060,
+      "high": 29.14,
+      "low": 28.26,
+      "open": 29.0
+    },
+    {
+      "date": "2026-11-20",
+      "close": 27.64,
+      "volume": 157739608,
+      "high": 28.3,
+      "low": 27.4,
+      "open": 28.2
+    },
+    {
+      "date": "2026-11-23",
+      "close": 27.52,
+      "volume": 132508409,
+      "high": 27.7,
+      "low": 26.8,
+      "open": 27.16
+    },
+    {
+      "date": "2026-11-24",
+      "close": 26.5,
+      "volume": 232838214,
+      "high": 27.84,
+      "low": 25.9,
+      "open": 27.52
+    },
+    {
+      "date": "2026-11-25",
+      "close": 26.56,
+      "volume": 247095958,
+      "high": 28.66,
+      "low": 26.46,
+      "open": 26.86
+    },
+    {
+      "date": "2026-11-26",
+      "close": NaN,
+      "volume": 127000581,
+      "high": NaN,
+      "low": NaN,
+      "open": NaN
+    }
+  ],
+  "events": [
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601634.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Change of Company Name]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601600.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Profit Warning / Inside Information]",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601576.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Delay in Dispatch of Circular or other Document / Rights Issue / Capita...",
+      "type": "other",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601516.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601444.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Final Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601430.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601426.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Final Results / Other - Miscellaneous]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601422.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601416.pdf"
+    },
+    {
+      "date": "26/11/2026",
+      "title": "Announcements and Notices - [Interim Results]",
+      "type": "earnings",
+      "pdf_url": "https://www1.hkexnews.hk/listedco/listconews/gem/2026/1126/2026112601390.pdf"
+    }
+  ]
+}
